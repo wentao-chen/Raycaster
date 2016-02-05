@@ -12,6 +12,8 @@ This project uses ray casting, an old technique used in early <a href="http://3d
 Old <a href="Old Raycaster.jar">Jar</a> file
 <br>
 Latest <a href="Raycaster.jar">Jar</a> file
+<br>
+Note: Please download the <a href="res">res</a> folder and save it in the same directory as the jar file.
 
 Features:
 <ul>
