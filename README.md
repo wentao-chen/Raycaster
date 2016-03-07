@@ -19,6 +19,7 @@ Features:
 <ul>
   <li>A first person perspective using ray casting techniques</li>
   <li><a href="#multiplayerheading">Multiplayer</a></li>
+  <li>Path-finding Bots</li>
   <li>Custom <a href="#mapsheading">maps</a></li>
   <li>Custom and various <a href="#mapsheading">weapons</a> and items</li>
   <li><a href="#consoleheading">Console</a> commands</li>
