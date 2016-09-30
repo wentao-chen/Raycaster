@@ -1,9 +1,9 @@
 # Raycaster
 
-Based on the game Counter-Strike by <a href="http://www.valvesoftware.com/">Value L.L.C.</a>.
+Based on the game Counter-Strike by <a href="http://www.valvesoftware.com/">Valve L.L.C.</a>.
 <br><br>
 This project is an attempt at a recreation of the game Counter-Strike using Java Swing.
-It is by no means an attempt to steal the works of Value L.L.C.
+It is by no means an attempt to steal the works of Valve L.L.C.
 However, if it accused of being too similar to the original game, I apologize but also thank you at the same time for recognizing that
 I was able to create anything that matched up to the original game.
 <br><br>
